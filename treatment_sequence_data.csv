@@ -1,0 +1,103 @@
+Input,Output
+"methamphetamine, invalid",cocaine/crack
+"methamphetamine, cocaine/crack, marijuana/hashish, alcohol",invalid
+"invalid, cocaine/crack, none, heroin",invalid
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"invalid, none, alcohol",cocaine/crack
+"methamphetamine, invalid, benzodiazepines",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid, alcohol",cocaine/crack
+"invalid, marijuana/hashish, inhalants, alcohol",cocaine/crack
+"invalid, cocaine/crack, none",cocaine/crack
+"benzodiazepines, none, alcohol, other amphetamines",marijuana/hashish
+"invalid, marijuana/hashish, alcohol, other amphetamines",cocaine/crack
+"invalid, none, alcohol",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid, benzodiazepines",invalid
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"marijuana/hashish, alcohol, cocaine/crack",marijuana/hashish
+"other opiates and synthetics, other opiates/synthetics, none, invalid",cocaine/crack
+"invalid, none, alcohol",cocaine/crack
+"invalid, marijuana/hashish, alcohol",cocaine/crack
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"methamphetamine, invalid, benzodiazepines",cocaine/crack
+"cocaine/crack, none, marijuana/hashish, alcohol",invalid
+"methamphetamine, cocaine/crack, other opiates/synthetics, invalid",invalid
+"invalid, marijuana/hashish, cocaine/crack, alcohol",heroin
+"methamphetamine, none, invalid",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid, alcohol",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid, alcohol",cocaine/crack
+"methamphetamine, none, invalid, alcohol",cocaine/crack
+"cocaine/crack, alcohol, benzodiazepines",marijuana/hashish
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid, alcohol",cocaine/crack
+"methamphetamine, invalid, heroin, alcohol",cocaine/crack
+"methamphetamine, none, invalid, alcohol",cocaine/crack
+"other opiates/synthetics, invalid, marijuana/hashish, other opiates and synthetics, cocaine/crack",invalid
+"methamphetamine, marijuana/hashish, invalid, alcohol",marijuana/hashish
+"methamphetamine, none, invalid, alcohol",cocaine/crack
+"marijuana/hashish, heroin, cocaine/crack",heroin
+"methamphetamine, invalid, alcohol",cocaine/crack
+"invalid, marijuana/hashish, alcohol, cocaine/crack",cocaine/crack
+"alcohol, other opiates/synthetics, invalid, other opiates and synthetics, marijuana/hashish",cocaine/crack
+"invalid, cocaine/crack, none, alcohol",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid",cocaine/crack
+"invalid, cocaine/crack, marijuana/hashish",cocaine/crack
+"other opiates and synthetics, other opiates/synthetics, none, invalid",cocaine/crack
+"non-prescription methadone, invalid, none, non-rx methadone, methamphetamine, marijuana/hashish",invalid
+"methamphetamine, marijuana/hashish, heroin, alcohol",invalid
+"invalid, marijuana/hashish, alcohol",invalid
+"invalid, none, heroin",cocaine/crack
+"invalid, none, heroin",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid, alcohol",cocaine/crack
+"methamphetamine, marijuana/hashish, other hallucinogens, invalid",invalid
+"invalid, hypnotics, heroin, alcohol",marijuana/hashish
+"invalid, cocaine/crack, none, alcohol",invalid
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"cocaine/crack, marijuana/hashish, alcohol",invalid
+"marijuana/hashish, alcohol",invalid
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"invalid, cocaine/crack, none, alcohol",cocaine/crack
+"methamphetamine, cocaine/crack, invalid, alcohol",cocaine/crack
+"methamphetamine, none, invalid",cocaine/crack
+"methamphetamine, other opiates/synthetics, alcohol, benzodiazepines",invalid
+"invalid, none, alcohol",cocaine/crack
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"invalid, none, alcohol",cocaine/crack
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid, alcohol",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid",cocaine/crack
+"methamphetamine, none, invalid",cocaine/crack
+"methamphetamine, invalid, heroin, alcohol",invalid
+"invalid, marijuana/hashish, alcohol, cocaine/crack",cocaine/crack
+"invalid, marijuana/hashish, heroin, alcohol",invalid
+"methamphetamine, marijuana/hashish, invalid, cocaine/crack",cocaine/crack
+"invalid, cocaine/crack, none, alcohol",cocaine/crack
+"methamphetamine, invalid, heroin",invalid
+"methamphetamine, marijuana/hashish, invalid",cocaine/crack
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid, alcohol",cocaine/crack
+"methamphetamine, marijuana/hashish, invalid",cocaine/crack
+"methamphetamine, marijuana/hashish, alcohol",marijuana/hashish
+"invalid, marijuana/hashish, none, alcohol",invalid
+"methamphetamine, marijuana/hashish, invalid, heroin",invalid
+"alcohol, other opiates/synthetics, invalid, none, other opiates and synthetics",cocaine/crack
+"benzodiazepines, other opiates/synthetics, none, other opiates and synthetics, marijuana/hashish",invalid
+"methamphetamine, marijuana/hashish, invalid, alcohol",cocaine/crack
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
+"marijuana/hashish, cocaine/crack, alcohol",heroin
+"methamphetamine, marijuana/hashish, invalid, alcohol",cocaine/crack
+"other opiates/synthetics, invalid, none, other opiates and synthetics, cocaine/crack",cocaine/crack
+"invalid, cocaine/crack, heroin, benzodiazepines",cocaine/crack
+"invalid, marijuana/hashish, heroin, alcohol",invalid
+"methamphetamine, none, invalid, alcohol",cocaine/crack
+"methamphetamine, none, invalid",cocaine/crack
+"methamphetamine, none, invalid, alcohol",cocaine/crack
+"methamphetamine, none, invalid",cocaine/crack
+"cocaine/crack, none, marijuana/hashish, benzodiazepines",invalid
+"methamphetamine, marijuana/hashish, none, invalid",cocaine/crack
+"methamphetamine, marijuana/hashish, alcohol",invalid
+"methamphetamine, none, invalid",cocaine/crack
+"methamphetamine, marijuana/hashish, none, other stimulants",invalid
+"alcohol, invalid, none, marijuana/hashish, cocaine/crack",invalid
+"methamphetamine, marijuana/hashish, alcohol",invalid
+"invalid, marijuana/hashish, none, alcohol",cocaine/crack
